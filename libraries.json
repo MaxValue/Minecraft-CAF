@@ -1,0 +1,41 @@
+{
+	"libraries": [
+		{
+			"name": "com.google.guava:guava",
+			"version": "18.0",
+			"info-sources": ["https://github.com/google/guava/"]
+		},
+		{
+			"name": "com.typesafe.akka:akka-actor_2.11",
+			"version": "2.3.12",
+			"url": "http://files.minecraftforge.net/maven/",
+			"info-sources": ["http://mvnrepository.com/artifact/com.typesafe.akka/akka-actor_2.11"]
+		},
+		{
+			"name": "com.typesafe:config",
+			"version": "1.3.0",
+			"url": "http://files.minecraftforge.net/maven/",
+			"info-sources": ["http://mvnrepository.com/artifact/com.typesafe/config",
+						"https://github.com/typesafehub/config"]
+		},		
+		{
+			"name": "net.minecraft:launchwrapper",
+			"version": "1.12",
+			"info-sources": ["http://assets.minepod.fr/libs/net/minecraft/launchwrapper/",
+						"https://www.google.at/search?q=minecraft+launchwrapper+1.13",
+						"http://fdt.googlecode.com/svn/trunk/.minecraft/libraries/net/minecraft/launchwrapper/"
+						]
+		},
+		{
+			"name": "org.ow2.asm:asm-all",
+			"version": "5.0.4",
+			"info-sources": ["http://mvnrepository.com/artifact/org.ow2.asm/asm-all"]
+		},
+		{
+			"name": "",
+			"version": "",
+			"url": "",
+			"info-sources": [""]
+		}
+	]
+}
